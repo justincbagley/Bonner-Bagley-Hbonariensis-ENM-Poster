@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Using ecological niche modeling to predict the
+  response of Hydrocotyle bonariensis to global
+  climate change
+message: >-
+  Please cite this poster (dataset) using the
+  citation from 'preferred-citation'.
+type: dataset
+authors:
+  - given-names: Rachel
+    name-particle: E
+    family-names: Bonner
+    email: rbonner2@stu.jsu.edu
+    affiliation: Department of Biology, Jacksonville State University
+  - given-names: Laura
+    name-particle: K
+    family-names: Dease
+    affiliation: Department of Biology, Jacksonville State University
+  - given-names: Elizabeth
+    name-particle: A
+    family-names: Hughston
+    affiliation: Department of Biology, Jacksonville State University
+  - given-names: Justin
+    name-particle: C
+    family-names: Bagley
+    email: jbagley@jsu.edu
+    affiliation: Department of Biology, Jacksonville State University
+    orcid: 'https://orcid.org/0000-0001-6737-8380'
