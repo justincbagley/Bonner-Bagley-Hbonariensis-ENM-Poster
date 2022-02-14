@@ -7,7 +7,7 @@ Results from our project "Using ecological niche modeling to predict the respons
 
 ## CITATION
 
-Bonner, R.E., Dease, L.K., Hughston, E.A., Bagley, J.C., 2022. Using ecological niche modeling to predict the response of _Hydrocotyle bonariensis_ to global climate change. Available at: <https://github.com/justincbagley/Bonner-Bagley-Hbonariensis-ENM-Poster>.
+Bonner, R.E., Dease, L.K., Hughston, E.A., Bagley, J.C., 2022. Using ecological niche modeling to predict the response of _Hydrocotyle bonariensis_ to global climate change. [Dataset] Available at: <https://github.com/justincbagley/Bonner-Bagley-Hbonariensis-ENM-Poster>.
 
 ## PRESENTATIONS
 
