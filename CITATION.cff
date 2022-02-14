@@ -11,21 +11,21 @@ message: >-
   citation from 'preferred-citation'.
 type: dataset
 authors:
-  - given-names: Rachel
-    name-particle: E
+  - given-names: Rachel E
+    name-particle: 
     family-names: Bonner
     email: rbonner2@stu.jsu.edu
     affiliation: Department of Biology, Jacksonville State University
-  - given-names: Laura
-    name-particle: K
+  - given-names: Laura K
+    name-particle: 
     family-names: Dease
     affiliation: Department of Biology, Jacksonville State University
-  - given-names: Elizabeth
-    name-particle: A
+  - given-names: Elizabeth A
+    name-particle: 
     family-names: Hughston
     affiliation: Department of Biology, Jacksonville State University
-  - given-names: Justin
-    name-particle: C
+  - given-names: Justin C
+    name-particle: 
     family-names: Bagley
     email: jbagley@jsu.edu
     affiliation: Department of Biology, Jacksonville State University
